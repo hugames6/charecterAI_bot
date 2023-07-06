@@ -1,0 +1,7 @@
+/venv
+/__pycache__
+/ai_module/__pycache__
+/analytic/__pycache__
+/database/__pycache__
+/hendler/__pycache__
+/keyboards/__pycache__
