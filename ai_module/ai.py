@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = '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'
+openai.api_key = ''
 
 async def get_mario_answer(question):
     prompt = openai.Completion.create(

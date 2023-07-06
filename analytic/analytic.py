@@ -1,6 +1,6 @@
 from amplitude import Amplitude, BaseEvent
 
-amplitude = Amplitude("cd83e2bdd790698a8289d7548056853d")
+amplitude = Amplitude("")
 
 
 async def user_registration(user_id):
